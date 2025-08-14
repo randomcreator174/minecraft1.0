@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+html{
+  background-image: url("https://static.wixstatic.com/media/84d4b0_9206583ffc1c47d2cc73c6aca9b85025.png/v1/fill/w_608,h_1080,al_t,q_90,enc_avif,quality_auto/84d4b0_9206583ffc1c47d2cc73c6aca9b85025.png");
+ background-attachment: fixed;
+text-align: center;
+}
+body{
+  font-family: "arial";
+  background-color: #A9A9A9;
+  padding: 20px;
+  width: 800px;
+  margin:auto;
+  color: #F5F5DC
+}
+p{
+  font-family: comic-sans;
+   font-size: 17px;
+}
+
+img{
+  filter: opacity(50%);
+  transition: filter 1s, transform 1s;
+}
+img:hover{
+  filter: opacity(100%);
+  transform: scale(1.2);
+}
+#commands{  
+ font-family: "VT323", monospace;
+  font-size: 35px;
+}
+#image{
+  filter: opacity(100%);
+  transition: filter 1s, transform 1s;
+}
+#image:hover{
+  filter: opacity(100%);
+  transform: scale(1.0);
+}
+  #title{
+     font-family: "Caveat", cursive;
+    font-size: 60px;
+  }
