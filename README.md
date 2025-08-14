@@ -35,8 +35,8 @@ to make a stone pickaxe just replace the wooden planks with cobblestone this app
 <p>3 wooden planks and two sticks</p>
 <br>
 <hr><br>
-<p>Wooden shovel</p>
-<img src="https://minecraftsavant.weebly.com/uploads/1/7/0/1/17011088/8539427.png"width="200px"><p>two sticks and a wooden plank</p>
+<p>stone shovel</p>
+<img src="https://www.minecraft101.net/crafting/stone-shovel.png"width="200px"><p>two sticks and a wooden plank</p>
 <br><hr><br>
 <p>wooden hoe</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFn-q35qcxzVg8PuX2wMIR1d1qjPwRZKj2Z7jv51I5ueDsw2U:https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e9/Crafting-hoes.gif&s"width="200px">
